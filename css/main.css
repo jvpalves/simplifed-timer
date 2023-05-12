@@ -33,7 +33,7 @@ html {
   bottom: 0;
   left: 0;
   z-index: 1;
-  background-color: #D3334D;
+  background-color: #51b0dc;
   transition: 0.5s all ease;
 }
 
@@ -55,7 +55,7 @@ html {
 }
 
 .tq-bg-red {
-  background-color: #D3334D;
+  background-color: #51b0dc;
 }
 
 .tq-clock {
